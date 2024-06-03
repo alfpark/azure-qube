@@ -1,5 +1,7 @@
 # Azure Scripts for PipelineFx Qube Integration
 
+**Status: This repository is no longer maintained.**
+
 This repository contains sample and helper scripts to deploy Qube on Microsoft Azure.
 
 Scripts\qube-bootstrap.ps1
